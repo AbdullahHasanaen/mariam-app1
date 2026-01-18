@@ -1,0 +1,61 @@
+{
+  "@@locale": "en",
+  "appTitle": "Mariam",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "welcome": "Welcome",
+  "welcomeUser": "Welcome, {userName}",
+  "@welcomeUser": {
+    "placeholders": {
+      "userName": {
+        "type": "String"
+      }
+    }
+  },
+  "taskReminder": "Task Reminder",
+  "fitnessCoach": "Personal Fitness Coach",
+  "settings": "Settings",
+  "tasks": "Tasks",
+  "completedTasks": "Completed Tasks",
+  "createTask": "Create Task",
+  "editTask": "Edit Task",
+  "deleteTask": "Delete Task",
+  "taskTitle": "Title",
+  "taskDescription": "Description (Optional)",
+  "taskDate": "Date",
+  "taskTime": "Time",
+  "taskPriority": "Priority",
+  "priorityLow": "Low",
+  "priorityMedium": "Medium",
+  "priorityHigh": "High",
+  "save": "Save",
+  "cancel": "Cancel",
+  "markCompleted": "Mark as Completed",
+  "pending": "Pending",
+  "completed": "Completed",
+  "homeWorkouts": "Home Workouts",
+  "workoutReminders": "Workout Reminders",
+  "runningReminder": "Running Reminder",
+  "waterReminder": "Water Drinking Reminder",
+  "beginner": "Beginner",
+  "intermediate": "Intermediate",
+  "advanced": "Advanced",
+  "notifications": "Notifications",
+  "enableNotifications": "Enable Notifications",
+  "language": "Language",
+  "notificationSound": "Notification Sound",
+  "vibration": "Vibration",
+  "enableVibration": "Enable Vibration",
+  "themeMode": "Theme Mode",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "userName": "User Name",
+  "enterUserName": "Enter your name",
+  "noTasks": "No tasks yet",
+  "noCompletedTasks": "No completed tasks",
+  "selectDate": "Select Date",
+  "selectTime": "Select Time",
+  "noDescription": "No description"
+}
